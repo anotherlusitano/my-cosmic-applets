@@ -1,0 +1,9 @@
+[submodule "cosmic-applet-disk"]
+	path = cosmic-applet-disk
+	url = https://github.com/anotherlusitano/cosmic-applet-disk.git
+[submodule "cosmic-applet-cpu"]
+	path = cosmic-applet-cpu
+	url = https://github.com/anotherlusitano/cosmic-applet-cpu.git
+[submodule "cosmic-applet-memory"]
+	path = cosmic-applet-memory
+	url = https://github.com/anotherlusitano/cosmic-applet-memory.git
